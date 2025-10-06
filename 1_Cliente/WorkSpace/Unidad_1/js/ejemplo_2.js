@@ -1,0 +1,1 @@
+alert("Ejemplo 2: \n Hola Mundo" + "\n Esto es una prueba")
